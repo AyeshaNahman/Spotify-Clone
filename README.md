@@ -32,7 +32,6 @@ A beautiful, modern music streaming application built with Next.js and Supabase.
 | **Frontend** | Next.js, React, TypeScript |
 | **Styling** | Tailwind CSS |
 | **Database** | Supabase (PostgreSQL) |
-| **Charts** | Recharts |
 | **Authentication** | Supabase Auth |
 
 
