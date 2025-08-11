@@ -1,4 +1,5 @@
 **Spotify Clone: A Scalable Music Streaming Application**
+
 This project is a full-stack, dynamic music streaming application built as a modern web development exercise. It aims to replicate core functionalities of a service like Spotify, including user authentication, song playback, and playlist management, with a strong focus on data security and real-time updates.
 
 Technologies Used
