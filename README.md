@@ -188,7 +188,7 @@ npm run dev
 
 Open http://localhost:3000 in your browser to see the application.
 
-🙏 Acknowledgements
+Acknowledgements
 Supabase for the excellent open-source backend solution.
 
 Next.js for the powerful React framework.
